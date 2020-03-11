@@ -2,7 +2,7 @@ This is First line which is added.
 
 This is second line!
 
-This is third line.
+This is third line from the master
 
 
 
